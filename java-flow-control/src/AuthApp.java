@@ -6,6 +6,11 @@ public class AuthApp {
 		System.out.println(args [0]);
 			
 		String id = "egoing";
+		
+		
+		String id2 = new String();
+		id2 = "egoing";
+		
 		String pass = "1111";
 		String inputId = args[0];
 		String inputpass = args[1];
